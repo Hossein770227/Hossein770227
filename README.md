@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>## Hi there 👋</title>
+  
   </head>
 
 <body>
+  <h1>## Hi there 👋</h1>
   <p><b>Hossein Hadi Amani</b> is a web developer with expertise in Django. I also have skills in Python programming language, Django Restframework, Docker, HTML and git.</p>
     <br>
   <ul dir="auto">
