@@ -6,7 +6,7 @@
 
 <body>
   <h1>## Hi there 👋</h1>
-  <p><b>Hossein Hadi Amani</b> is a web developer with expertise in Django.<br> I also have skills in Python programming language, Django Restframework, Docker, HTML and git.</p>
+  <p><b>Hossein Hadi Amani</b> is a web developer with expertise in<strong><i> Django</i></strong>strong>.<br> I also have skills in Python programming language, Django Restframework, Docker, HTML and git.</p>
     <br>
   <ul dir="auto">
     <li><p>🌱 I’m currently learning <strong>Django ORM & Django RestFramework</strong></p></li>
